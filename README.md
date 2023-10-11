@@ -3,7 +3,7 @@
 
 
 <h3 align="center">A passionate developer(Student)</h3>
-
+<img src="[img_girl.jpg](https://cdn.dribbble.com/users/1959310/screenshots/15910497/media/252bd349493fd8ddc735a6a6d37aa33b.gif)"  width="200" height="200" align="right">
 - 🌱 I’m currently learning **JavaScript, Nodejs, Express**
 
 <h3 align="left">Connect with me:</h3>
