@@ -7,6 +7,14 @@
 
 # Hi there! 👋 I'm Prasa 🚀
 
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+  <h3>Welcome to My GitHub Profile!</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=440&lines=Junior+Software+Developer;Odoo+%7C+Web+Development+%7C+DSA+Learner;Always+Learning+%F0%9F%93%96;Let's+Build+Something+Great+Together!+%E2%9C%8C" alt="Typing Animation">
+</div>
+
+---
+
 ## 🌟 About Me
 - 🌱 **Junior Software Developer** specializing in **Odoo** ERP customizations and modules.
 - 💻 Passionate about **Full-Stack Development**, currently learning **Angular** and improving my knowledge of **Data Structures and Algorithms (DSA)**.
@@ -16,12 +24,9 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Languages**: Python, JavaScript, HTML, CSS, SQL
-- **Frameworks & Libraries**: OWL (Odoo Web Library), Angular (beginner), Bootstrap
-- **Tools**: Git, Visual Studio Code, Postman, FileZilla
-- **Databases**: PostgreSQL
-- **ERP**: Odoo 17 (Community & Enterprise)
-- **Other Skills**: Report customization, QWeb, Odoo ORM, REST API integration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,postgresql,git,bootstrap" alt="Skills" />
+</p>
 
 ---
 
@@ -64,13 +69,18 @@
 ---
 
 ## 🔗 Connect with Me
-- 💼 [LinkedIn](#) *()*
-- 🌍 [Portfolio](#) *()*
-- 📧 [Email Me](mailto:your-prasacode@gmail.com)
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge" alt="Email Badge"></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn Badge"></a>
+</p>
 
 ---
 
-⭐️ *If you find my projects helpful, feel free to give them a star! 🌟 Let's build great things together!*
+<div align="center">
+  <h3>Thanks for visiting! 😄</h3>
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Animated Bottom Wave">
+</div>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
