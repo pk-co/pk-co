@@ -30,6 +30,23 @@
 
 ---
 
+## 🚀 Skills & Experience
+
+### 🛠️ Technical Skills
+
+| Skill       | Proficiency                                      | Spinner |
+|-------------|--------------------------------------------------|---------|
+| **Odoo**    | ![80%](https://progress-bar.dev/80?title=Odoo)   | 🔄 |
+| **JavaScript** | ![75%](https://progress-bar.dev/75?title=JS)  | 🔄 |
+| **OWL JS**  | ![70%](https://progress-bar.dev/70?title=OWL+JS) | 🔄 |
+| **Python**  | ![70%](https://progress-bar.dev/70?title=Python) | 🔄 |
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="Spinner Animation">
+</p>
+
+---
+
 ## 🌟 My Current Focus
 - 🤝 Building innovative features for Odoo modules (POS, Accounting, HR Payroll).
 - 🌐 Creating responsive web applications using **Angular**.
