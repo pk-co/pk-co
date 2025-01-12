@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <h3>Welcome to My GitHub Profile!</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=440&lines=Junior+Software+Developer😎+;Experienced+Odoo Developer+😉;Curious+Mind+🧘;Always+Learning+%F0%9F%93%96;Lets+Build+Something+Great+Together!+%E2%9C%8C;Chill+Guy+✌️😁" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=440&lines=Junior+Software+Developer+😎+;Experienced+Odoo Developer+😉;Curious+Mind+🧘;Always+Learning+%F0%9F%93%96;Build+Something+Great+Together!+%E2%9C%8C;Chill+Guy+✌️😁" alt="Typing Animation">
 </div>
 
 ---
