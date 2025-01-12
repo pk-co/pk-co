@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
   <h3>Welcome to My GitHub Profile!</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=440&lines=Junior+Software+Developer;Odoo+%7C+Web+Development+%7C+DSA+Learner;Always+Learning+%F0%9F%93%96;Let's+Build+Something+Great+Together!+%E2%9C%8C" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A6FF&center=true&vCenter=true&width=440&lines=Junior+Software+Developer;Odoo Developer;Always+Learning+%F0%9F%93%96;Let's+Build+Something+Great+Together!+%E2%9C%8C" alt="Typing Animation">
 </div>
 
 ---
@@ -23,54 +23,11 @@
 
 ---
 
+## 🚀 Skills & Experience
+
 ## 🛠️ Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,html,css,postgresql,git,bootstrap" alt="Skills" />
-</p>
-
----
-
-## 🚀 Skills & Experience
-
-### 🛠️ Technical Skills
-
-| Skill       | Proficiency                                                                                  |
-|-------------|----------------------------------------------------------------------------------------------|
-| **Odoo**    | <img src="https://progress-bar.dev/80?color=5cb85c&width=300" alt="Odoo Progress">           |
-| **JavaScript** | <img src="https://progress-bar.dev/75?color=f0ad4e&width=300" alt="JavaScript Progress">  |
-| **OWL JS**  | <img src="https://progress-bar.dev/70?color=info&width=300" alt="OWL JS Progress">           |
-| **Python**  | <img src="https://progress-bar.dev/70?color=danger&width=300" alt="Python Progress">         |
-
----
-
-### 🔄 Animated SVG Progress Bars
-<p align="center">
-  <b>Odoo (80%)</b> <br>
-  <svg width="400" height="30">
-    <rect x="0" y="0" width="400" height="30" fill="#ddd" />
-    <rect x="0" y="0" width="320" height="30" fill="#5cb85c" />
-  </svg>
-</p>
-<p align="center">
-  <b>JavaScript (75%)</b> <br>
-  <svg width="400" height="30">
-    <rect x="0" y="0" width="400" height="30" fill="#ddd" />
-    <rect x="0" y="0" width="300" height="30" fill="#f0ad4e" />
-  </svg>
-</p>
-<p align="center">
-  <b>OWL JS (70%)</b> <br>
-  <svg width="400" height="30">
-    <rect x="0" y="0" width="400" height="30" fill="#ddd" />
-    <rect x="0" y="0" width="280" height="30" fill="#5bc0de" />
-  </svg>
-</p>
-<p align="center">
-  <b>Python (70%)</b> <br>
-  <svg width="400" height="30">
-    <rect x="0" y="0" width="400" height="30" fill="#ddd" />
-    <rect x="0" y="0" width="280" height="30" fill="#d9534f" />
-  </svg>
 </p>
 
 ---
