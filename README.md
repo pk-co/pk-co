@@ -32,26 +32,10 @@
 
 ---
 
-## 💡 Projects & Contributions
-### 🚀 Odoo Projects:
-1. **POS Credit Limit Module**  
-   - Enforced credit limits for customers with custom error popups and payment restrictions.
-
-2. **Custom PDF/XLSX Reports**  
-   - Developed advanced dynamic reports with date filters, payment totals, and timezone handling.
-
-3. **Aged Receivable Report**  
-   - Implemented dynamic invoice and payment display using OWL JS, handling real-time adjustments.
-
-### 🌐 Web Development:
-- Working on a **Travel Tour App** in **Angular** (Responsive Design).
-- Styling authentication components using custom CSS inspired by Angular Material.
-
----
 
 ## 📚 Learning Goals
-- Master **Data Structures and Algorithms**.
-- Build scalable web apps with **Angular**.
+- Master **Odoo and Wordpress**.
+- Build scalable web apps with **Wordpress**.
 - Continue exploring advanced Odoo customization techniques.
 
 ---
