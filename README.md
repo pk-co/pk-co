@@ -29,16 +29,12 @@
 - 🤝 Building innovative features for Odoo modules (POS, Accounting, HR Payroll).
 - 🌐 Creating responsive web applications using **Angular**.
 - 📈 Enhancing problem-solving skills by learning **DSA** and exploring advanced **Python** techniques.
-
----
-
-
-## 📚 Learning Goals
 - Master **Odoo and Wordpress**.
 - Build scalable web apps with **Wordpress**.
 - Continue exploring advanced Odoo customization techniques.
 
 ---
+
 
 ## 🌟 Fun Facts & Interests
 - ⚡ I enjoy solving challenging problems and thrive on technical innovation.
