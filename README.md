@@ -10,13 +10,10 @@
 
 ## 🌟 About Me
 - 🌱 **Junior Software Developer** specializing in **Odoo** ERP customizations and modules.
-- 💻 Passionate about **Full-Stack Development**, currently learning **Angular** and improving my knowledge of **Data Structures and Algorithms (DSA)**.
-- 🛠️ Experienced in creating dynamic reports (XLSX/PDF), custom addons, and enhancing UI/UX within **Odoo** using **OWL JS** and **QWeb templates**.
+- 💻 Passionate about **Full-Stack Development**, currently learning **React** and improving my knowledge of **Data Structures and Algorithms (DSA)**.
 - 📖 Lifelong learner focused on **problem-solving** and building impactful solutions.
 
 ---
-
-## 🚀 Skills & Experience
 
 ## 🛠️ Technical Skills
 <p align="center">
@@ -34,7 +31,6 @@
 - Continue exploring advanced Odoo customization techniques.
 
 ---
-
 
 ## 🌟 Fun Facts & Interests
 - ⚡ I enjoy solving challenging problems and thrive on technical innovation.
