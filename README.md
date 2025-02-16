@@ -23,19 +23,15 @@
 ---
 
 ## 🌟 My Current Focus
-- 🤝 Building innovative features for Odoo modules (POS, Accounting, HR Payroll).
-- 🌐 Creating responsive web applications using **Angular**.
+- 🤝 Master **Odoo and Wordpress**.
+- 🌐 Creating web/mobile applications.
 - 📈 Enhancing problem-solving skills by learning **DSA** and exploring advanced **Python** techniques.
-- Master **Odoo and Wordpress**.
-- Build scalable web apps with **Wordpress**.
-- Continue exploring advanced Odoo customization techniques.
 
 ---
 
 ## 🌟 Fun Facts & Interests
 - ⚡ I enjoy solving challenging problems and thrive on technical innovation.
-- 🎯 Motivated by quotes about resilience and persistence, like:  
-  *"Success is not final, failure is not fatal: It is the courage to continue that counts."*
+- 🎯  *"Success is not final, failure is not fatal: It is the courage to continue that counts."*
 
 ---
 
