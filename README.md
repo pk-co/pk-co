@@ -24,7 +24,7 @@
 
 ## 🌟 My Current Focus
 - 🤝 Master **Odoo and Wordpress**.
-- 🌐 Creating web/mobile applications.
+- 🌐 Creating web/mobile applications, and build websites using wordpress.
 - 📈 Enhancing problem-solving skills by learning **DSA** and exploring advanced **Python** techniques.
 
 ---
